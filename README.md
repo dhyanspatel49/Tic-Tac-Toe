@@ -7,7 +7,7 @@
 - **T. Hemanth:** UI Design & Start Page
 ##  How to Run
 
-> **⚠️ Important:** You must run the script from inside the `Game` directory. This is required so the application can correctly load the background image (`MBG.png`).
+> ** Important:** You must run the script from inside the `Game` directory. This is required so the application can correctly load the background image (`MBG.png`).
 
 1. **Clone the repository:**
    ```bash
