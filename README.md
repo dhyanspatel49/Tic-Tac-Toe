@@ -1,11 +1,11 @@
 # Tic-Tac-Toe (Python + Tkinter)
-## 👥 Contributors
+##  Contributors
 **Team 15**
 - **Dhyan Patel:** Game Logic & UI Integration
 - **A. Pardhiv:** History & CSV Management
 - **Suhith:** Game Logic
 - **T. Hemanth:** UI Design & Start Page
-## 💻 How to Run
+##  How to Run
 
 > **⚠️ Important:** You must run the script from inside the `Game` directory. This is required so the application can correctly load the background image (`MBG.png`).
 
@@ -20,7 +20,7 @@
    ```bash
    python Tic-Tac-Toe.py
 
-#About the Project   
+## About the Project   
 A fully functional, GUI-based Tic-Tac-Toe game developed in Python using the **Tkinter** library. This project features a multi-page interface, local 2-player support, and a persistent history system that tracks game results in a CSV file.
 
 ##  Overview
@@ -39,7 +39,7 @@ This application was developed by **Team 15** as part of a Python software devel
 - **Data Persistence:** CSV (Comma-Separated Values)
 - **Modules Used:** `tkinter`, `csv`, `datetime`, `os`
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 Tic-Tac-Toe/
 │
